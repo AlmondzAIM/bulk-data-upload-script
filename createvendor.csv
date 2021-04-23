@@ -1,0 +1,3 @@
+id,email,phoneNumber,organizationName,vendorStatus,gstNo,websiteUrl,cinNo,remarks,address,country,city,state,pincode,alternateEmail,alternatePhoneNumber,createdAt,updatedAt,deletedAt
+735fff20-9e77-11eb-9c25-aff950d2c0a1,Papll@papl.com,9876541230,PAPL,active,29AABCA0123H1ZA,www.papl.com,L74899DL1994PLC059789,testing,F33/3  okhala Phase 2 Near Almondz,India,Delhi,Delhi,110020,Papl@palpl.com,9876541230,2021-04-16 11:19:03.891+05:30,2021-04-16 11:19:03.891+05:30,NULL
+aa7445f0-9dcf-11eb-acaf-01167904010d,Papl@papl.com,9876541230,PAPL,active,29AABCA0005H1ZA,www.almondz.com,L74899DL1994PLC059839,Testing,F33/3  okhala Phase 2 Near Almondz,USA,New Delhi,New Delhi,110021,Papl@papl.com,9876541230,2021-04-15 15:18:00.848+05:30,2021-04-15 15:18:00.848+05:30,NULL

@@ -1,0 +1,5 @@
+Name,Email,PhoneNumber,Password,Role,EmployeeId,LastLoggedIn
+Gaurav,gaurav.kumar@almondz.com,1234567890,12345AIM,admin,441,2021-03-31T06:10:43.788Z
+Rashmi,rashmi.punia@almondz.com,9876543210,12345AIM,admin,440,2021-03-31T06:10:43.788Z
+Tarun,Tarun.kethwalia@almondz.com,1234567890,12345AIM,manager,442,2021-03-31T06:10:43.788Z
+Akash Badola,Akash.badola@almondz.com,1234567890,12345AIM,dataEntry,443,2021-03-31T06:10:43.788Z
